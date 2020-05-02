@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Step 6 of Github Lessons completed!
 Use the left arrow to go back!
